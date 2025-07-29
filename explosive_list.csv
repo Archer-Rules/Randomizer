@@ -1,0 +1,22 @@
+Weapon Name,Weight,Value,Range (Yards),Damage,AP Cost,Rarity,AoE,Tier,Page #
+Dynamite,0.5,10,10+STR,30++,25,Common,10,2,286
+Fire Bomb,0.5,10,10+STR,10+,25,Common,10,2,286
+Smoke Grenade,0.5,15,10+STR,0,25,Common,20*,2,286
+Flashbang,0.5,20,10+STR,0,25,Uncommon,10,2,287
+Frag Grenade,0.5,30,10+STR,50++,25,Common,15,2,287
+Stick Grenade,0.5,35,15+2*STR,50++,25,Uncommon,15,2,287
+Incendiary Grenade,0.5,30,10+STR,20+,25,Rare,10,2,287
+Plasma Grenade,0.5,50,10+STR,80++++,25,Extremely Rare,15,2,288
+Anti-Matrix Grenade,0.5,30,10+STR,10+,25,Extremely Rare,15,2,288
+Stun Grenade,0.5,40,10+STR,30++,25,Uncommon,10,2,288
+Knockout Gas Grenade,0.5,40,15+STR,Special,25,Rare,20*,2,289
+Enchanted Grenade,0.5,65,10+STR,60++,25,Rare,10,2,289
+Balefire Grenade,10,275,4+STR,240++++++,25,Exotic,60,2,289
+Frag Mine,0.5,30,N/A,50++,35,Common,10,2,290
+Plasma Mine,0.5,50,N/A,80++++,35,Extremely Rare,15,2,290
+Anti-Matrix Mine,0.5,50,N/A,10+,35,Extremely Rare,15,2,290
+Claymore Mine,1,75,N/A,60+++++,35,Uncommon,20*,2,290
+C-4,5,200,Special,120+8d10,35,Rare,50,2,291
+Balefire Mine,10,450,10+STR,300+10d10,35,Exotic,60,2,291
+Fireworks,0.25,15,20+3*LCK,10++,30,Uncommon,2,2,291
+Law Rocket,4,75,Short,65+++,40,Rare,10,2,292

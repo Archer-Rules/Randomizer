@@ -1,0 +1,106 @@
+Weapon Name,Weight,Value,Range (Yards),Damage,AP Cost,Rarity,Tier,Page #
+Boxing Tape,1,10,N/A,STR+5+,15,Common,0,257
+Bladed Helmet,10,75,N/A,3*STR+10+,30,Common,1,258
+Boxing Boots,6,50,N/A,2*STR+5+,15,Common,1,259
+Brass Shoe,1,50,N/A,1*STR+5++,15,Common,1,259
+Kick Dagger,3,75,N/A,1*STR+5++,20,Common,1,259
+Mantis Helmet,10,75,N/A,2*STR+10+,25,Uncommon,1,259
+Wingblades,3,100,N/A,1*AGI+10+,20,Common,1,260
+Bear Trap Hoof,6,300,N/A,3*STR+25+,30,Uncommon,2,260
+Body Spikes,1,150,N/A,2*STR+10+,15,Common,2,260
+Mace Hoof,8,200,N/A,3*STR+20++,30,Uncommon,2,260
+Solaris Hoof,4,300,N/A,4*STR+15++,25,Rare,2,261
+Spiked Shoe,1,250,N/A,1*STR+10++,15,Common,2,261
+Tail Flail,6,250,N/A,2*STR+15++,20,Uncommon,2,261
+Yao Guai Helmet,10,250,N/A,2*STR+10+,20,Rare,2,261
+Displacer Hoof,6,1300,N/A,4*STR+++,30,Uncommon,3,262
+Power Hoof,6,1500,N/A,4*STR+25++,25,Uncommon,3,262
+Zap Sock,6,1200,N/A,2*STR+20+,25,Rare,3,262
+Ballistic Hoof,6,3000,N/A,5*STR+15+++,25,Rare,4,263
+Enclave Battle Tail,3,N/A,N/A,2*AGI+25+,25,Exotic,4,263
+Industrial Shoe,10,2800,N/A,4*STR+30++++,35,Rare,4,263
+Cleaver,2,10,N/A,3*STR+5+,35,Common,0,264
+Club,3,15,N/A,STR+15+,20,Common,0,264
+Hammer,3,20,N/A,2*STR+10+,25,Common,0,264
+Monkey Wrench,3,20,N/A,STR+15+,20,Common,0,265
+Pool Cue,1,20,N/A,STR+10+,20,Common,0,265
+Rock,1,0,N/A,LCK+2+,15,Common,0,265
+Rolling Pin,1,10,N/A,STR+5+,15,Common,0,265
+Staff,1,20,N/A,STR+10+,20,Common,0,265
+Straight Razor,1,10,N/A,STR+5+,15,Common,0,266
+Syringe,1,5,N/A,+,15,Common,0,266
+Taser,1,25,N/A,10++,20,Common,0,266
+Tire Iron,3,20,N/A,2*STR+10+,20,Common,0,266
+9-Iron,3,30,N/A,STR+20+,25,Common,1,267
+Cattle Prod,3,50,N/A,STR+10++,30,Common,1,267
+Crowbar,5,75,N/A,2*STR+20+,25,Common,1,267
+Dress Cane,3,75,N/A,STR+15+,25,Uncommon,1,267
+Knife,1,30,N/A,STR+8++,15,Common,1,268
+Knife Spear,3,75,N/A,3*STR+15+,30,Common,1,268
+Lead Pipe,3,50,N/A,2*STR+10+,25,Common,1,268
+Machete,2,50,N/A,2*STR+10++,20,Common,1,268
+Nailboard,4,50,N/A,3*STR+10+,30,Common,1,269
+Shovel Spear,3,50,N/A,3*STR+5+,35,Common,1,269
+Sickle,2,40,N/A,2*STR+5+,20,Common,1,269
+Switchblade,1,35,N/A,STR+8++,15,Common,1,269
+Sword,3,75,N/A,2*STR+15+,25,Common,1,270
+Whip,1,50,N/A,AGI+10+,30,Common,1,270
+Zebra Sword,3,60,N/A,2*AGI+10+,25,Uncommon,1,270
+Bamboo Sword,5,150,N/A,2*STR(AGI)+15+,25,Uncommon,2,270
+Baseball Bat,3,100,N/A,2*STR+20+,25,Common,2,271
+Battle Axe,5,150,N/A,3*STR+12++,30,Uncommon,2,271
+Chain,8,200,N/A,2*AGI+10++,35,Common,2,271
+Combat Knife,1,200,N/A,STR+15++,15,Common,2,271
+Cutlass,5,300,N/A,3*STR+15++,25,Common,2,272
+Harpoon W/ Chain,7,250,N/A,STR+15++,25,Uncommon,2,272
+Hatchet,3,150,N/A,3*STR+10+,25,Common,2,272
+Magical Energy Spear,4,500,N/A,3*STR+15+,30,Rare,2,272
+Pickaxe,6,350,N/A,2*STR+5+++,35,Common,2,273
+Police Baton,2,100,N/A,2*STR+10+,20,Common,2,273
+Rapier,2,300,N/A,AGI+10+,15,Common,2,273
+Rebar Club,9,150,N/A,4*STR+25+,40,Common,2,273
+Scythe,4,200,N/A,3*STR+25+,35,Common,2,273
+Sledgehammer,12,250,N/A,5*Str+15+,35,Common,2,274
+Steel Saw,20,700,N/A,3*STR+5+++++,35,Common,2,274
+War Club,3,150,N/A,STR+18++,20,Uncommon,2,274
+Auto Axe,20,2000,N/A,6*STR+25+++++,60,Rare,3,274
+Bowie Knife,1,1000,N/A,STR+18++,15,Common,3,275
+Bumper Sword,12,1500,N/A,4*STR+30+,35,Uncommon,3,275
+Cosmis Knife,1,1000,N/A,2*AGI+12+,20,Uncommon,3,275
+Fire Axe,8,1200,N/A,5*STR+30+,30,Common,3,275
+Gladius,2,1200,N/A,2*STR+28++,25,Uncommon,3,276
+Magical Energy Sword,6,3000,N/A,4*STR+20+,25,Rare,3,276
+Plasma Lance,6,1200,N/A,3*STR+20++,30,Rare,3,276
+Ripper,6,1200,N/A,STR+10++++,30,Rare,3,276
+War Axe,10,2000,N/A,4*STR+30++,35,Uncommon,3,277
+Zebra Chain Whip,8,1500,N/A,2*STR+10+++,30,Rare,3,277
+Chainsaw,20,2200,N/A,8*STR+40++++,60,Common,4,277
+Enchanted Zebra Sword,3,3000,N/A,2*AGI+30++,25,Exotic,4,277
+Katana,3,2000,N/A,2*AGI+30++,20,Exotic,4,278
+Magic Energy Axe,8,3500,N/A,5*STR+20++,35,Rare,4,278
+Nero Mace,7,3500,N/A,2*STR+20+,20,Rare,4,278
+Super Sledge,20,2500,N/A,5*STR+40++,35,Rare,4,278
+Thermic Lance,20,3000,N/A,4*STR+15++,30,Rare,4,279
+Vertibuck Blade,12,3500,N/A,4*STR+30++,30,Rare,4,279
+Zebra Thunder Axe,8,2500,N/A,4*STR+25+,25,Exotic,4,279
+Bolas,3,20,10+STR,N/A,30,Uncommon,2,280
+Boomerang,2,20,20+3*STR,2*STR+8+,25,Uncommon,2,280
+Chakram,3,50,10+3*STR,2*AGI+15+,15,Exotic,2,280
+Chucking Hammer,5,100,10+2*STR,3*STR+20++,30,Uncommon,2,281
+Javelin,2,50,25+5*STR,3*STR+15+,25,Uncommon,2,281
+Kpinga,4,150,20+2*STR,4*STR+15+,25,Exotic,2,281
+Magic Energy Throwing Axe,4,300,10+2*STR,2*STR+20+,20,Extremely Rare,2,281
+Magic Energy Throwing Knife,3,200,10+STR,1*STR+25+,15,Rare,2,282
+Magic Energy Throwing Spear,3,350,20+3*STR,3*STR+20+,25,Extremely Rare,2,282
+Rock,1,0,5+STR,LCK+2+,15,Common,2,282
+Sling,1,5,10+2*STR,LCK+5+,15,Common,2,282
+Throwing Hatchet,1,10,10+2*STR,STR+10+,20,Uncommon,2,283
+Throwing Knife,1,5,10+STR,STR+8+,15,Common,2,283
+Throwing Knife Spear,3,25,20+3*STR,3*STR+10+,30,Rare,2,283
+Throwing Spear,3,40,20+3*STR,3*STR+20+,25,Uncommon,2,283
+Tomahawk,2,15,10+2*STR,STR+10+,25,Common,2,284
+Zebra Throwing Stars,1,100,10+2*STR,2*AGI+15+,10,Extremely Rare,2,284
+Bowie Knife,5,150,Medium,2*STR+20++,25,Uncommon,2,284
+Hunting Bow,2,75,Short,STR+10+,25,Uncommon,2,284
+Long Bow,7,400,Long,3*STR+30++,30,Uncommon,2,285
+Short Bow,4,125,Medium,STR+20++,25,Uncommon,2,285
