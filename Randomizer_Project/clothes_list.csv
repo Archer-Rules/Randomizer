@@ -1,0 +1,128 @@
+Item Name,Weight,Value,Special Rules,Rarity,Page #
+Cursed Coin,N/A,1,Negates the Effects of Voodoo Dolls,Extremely Rare,346
+Badge,0.5,5,1 Bluff/Intim/Nego/Seduce,Uncommon,346
+Eye Glasses,1,5,N/A,Common,346
+Eye Patch,0.5,5,2 Bluff/Intim,Common,347
+Scarf,0.5,5,2 Cold Resist,Common,347
+Fancy Scarf,0.5,15,1 Bluff/Intim/Nego/Seduce,Uncommon,347
+Monocle,1,15,2 Nego/Seduce,Uncommon,347
+Goggles,1,20,Prevents Dust in Eyes,Common,348
+Aviator Goggles,1,25,5 Flight Magic,Uncommon,348
+Rubber Boots,1,25,5 Electric/Cold Resist,Common,348
+Sun Glasses,1,25,"1 CHA, Softens Light/Flashbangs",Common,348
+Tribal Beads,0.5,25,2 Shamanism,Uncommon,349
+Cursed Amulet,1,50,"5 Shamanism, -5 Max Karma",Rare,349
+Authority Glasses,1,100,"1 CHA, 5 Bluff/Intim. Sunglasses",Uncommon,349
+Dorky Glasses,1,100,"1 INT, -1 CHA",Uncommon,349
+Voodoo Doll,2,100,A whole bunch! See Page Num,Rare,350
+Wing Shields,5,100,Shields... Wings?,Rare,350
+Golden Pocket Watch,0.5,150,5 Nego/Seduce. Tells time!,Extremely Rare,350
+Magic Amplifier Tome,5,500,"5 Magic, 5 Lore, See Page Num",Extremely Rare,350
+Ragged Cloak,1,25,A dirty old cloak,Common,351
+Leather Cloak,3,50,A slightly less dirty old cloak,Common,351
+Equine Hide Cloak,5,75,You Monster! See Page Num,Exotic,351
+Mesh-Weave Cloak,5,75,A nice cloak,Uncommon,352
+Cold Weather Cloak,5,100,20 Cold Resist,Common,352
+Electrician's Cloak,5,100,20 Lightning Resist,Uncommon,352
+Golden Gecko Cloak,5,100,20 Rad Resist,Uncommon,352
+Green Gecko Cloak,5,100,20 Poison Resist,Uncommon,353
+Royal Fire Department Cloak,5,100,20 Fire Resist,Rare,353
+CMC Cloak,2,250,2 Crit Chance to any 1 skill,Uncommon,353
+Dress Cape,0.5,250,1 CHA,Rare,353
+MOP Environment Cloak,5,250,20 ALL Resist,Rare,354
+Enchanted Cloak,2,500,Does a whole bunch! See Page Num,Rare,354
+Royal Grand Cloak,8,1500,"1 CHA, 5 Speech, 1 Disposition",Extremely Rare,354
+Zebra Stealth Cloak,5,1500,"5 Lockpick, Free Spells! See Page Num",Extremely Rare,354
+Zebra Remnants Stealth Cloak,10,2500,"Some DT, Free Spells! See Page Num",Exotic,355
+Slave Outfit,1,1,"Eesh, -1 CHA, -1 LCK. Discrimated",Common,356
+Pre-War Outfit,2,10,Shirts and Pants baby,Common,356
+Socks,1,10,"1 Nego/Seduce, Kinky.",Common,356
+Bathrobe,3,15,"5 Cold Resist, Kinky.",Rare,357
+Robes,2,15,5 Arcane Magic,Uncommon,357
+Leather Vest,2,20,5 Firearms,Rare,357
+Bathing Suit,N/A,25,"10% Swim Speed, Kinky.",Uncommon,357
+Engineer Jumpsuit,2,25,5 Repair/Mech,Uncommon,358
+Farmworker Outfit,3,25,Ignore 10 penalties with agriculture.,Common,358
+Leather Apron,2,25,"2 A/S/T, Repair/Mech, Melee. ",Common,358
+Pajamas,1,25,5 Nego/Seduce,Common,358
+Pre-War Businesswear,2,25,5 Nego/Seduce/Bluff/Intim. NOTICABLE,Uncommon,359
+Scientist Lab Coat,2,25,A whole bunch! See Page Num,Rare,359
+Sexy Sleepwear,2,25,"1 CHA, 5 Seduce/Bluff. NOTICEABLE",Uncommon,359
+Stable Jumpsuit,1,25,A whole bunch! See Page Num,Exotic,359
+(Title) Jumpsuit,1,25,5 to any one non-combat skill.,Uncommon,360
+Trader Outfit,2,25,5 Negotiation. NOTICEABLE,Common,360
+Caravan Outfit,2,50,1 Disposition to town guards.,Common,360
+Flight Suit,2,50,10 Cold/Lightning Resist while flying.,Uncommon,360
+Fur Trapper's Outfit,4,50,5 A/S/T. Is Camouflaged,Common,361
+Ganger Outfit,2,50,5 Unarm or 10 Bluff/Intim at GM's Will,Rare,361
+Leather Jacket,5,50,5 Melee or Firearms. Kinky,Common,361
+Merc Outfit,2,50,5 Firearms/MEW,Uncommon,361
+Ministry of Peace Nurse Outfit,2,50,"5 Medicine, 1 CHA* See Page Num",Uncommon,362
+Prospector Outfit,3,50,1 LCK,Common,362
+Religious Attire,2,50,"5 Nego/Seduce, 1 Willpower",Rare,362
+Stable Utility Jumpsuit,2,50,5 Repair/Mech/Lockpick,Exotic,362
+Tinkerer Shop Coat,2,50,10 Hack/Matrix/Repair/Mech,Uncommon,363
+Wasteland Surgeon Outfit,2,50,5 Medicine,Uncommon,363
+Air Captain Uniform,2,100,Half Falling/Colision Damage,Rare,363
+Captain Uniform,2,100,Looks nice I guess?,Rare,363
+Duster,5,100,"1 CHA, 5 Firearms",Common,364
+Enclave Officer Uniform,3,100,"1 CHA, 10 MEW, 1 CHA with military",Exotic,364
+Pirate/Corsair Outfit,2,100,"5 Firearms/Melee, Kinky, Has Bandoleer",Rare,364
+School Outfit,2,100,5 Academics and more! See Page Num,Uncommon,364
+Stable-Tec Scientist Scrubs,2,100,"1 Int, 5 Hack/Matrix. NOTICEABLE",Exotic,365
+Tribal Garb,2,100,"1 CHA, 3 A/S/T/Shaman. See Page Num",Rare,365
+Wanderer Clothes,2,100,1 AGI,Common,365
+Wasteland Scout Uniform,5,100,"1 AGI, 5 A/S/T. See Page Num",Uncommon,365
+Gown,1,120,"1 CHA, 10 Negotiation. NOTICEABLE",Common,366
+Tuxedo,1,120,"1 CHA, 10 Bluff/Intim. ",Uncommon,366
+Cowpony Outfit,2,150,5 Firearms/Nego/Seduce,Common,366
+Equestrian Army Uniform,5,150,"5 Unarm, 10 Bluff/Intim",Uncommon,366
+Librarian Outfit,2,150,10 Academics/Lore. Has Glasses,Rare,367
+School Teacher Outfit,2,150,"1 Int, 5 Academic/Lore. See Page Num",Uncommon,367
+Steel Ranger Scribe Robes,5,150,Holy Moly That's Stats! See Page Num,Extremely Rare,367
+Ministry of Peace Doctor's Coat,2,175,A bunch of stats! See Page Num,Uncommon,367
+Construction Harness,15,200,"1 STR, 10 Repair/Mech. See Page Num",Common,368
+Prostitute Outfit,2,200,Yikes. See Page Number,Common,368
+Fire Pony Outfit,5,250,20 Fire Resist,Uncommon,368
+Mage Robes,5,250,1 POT/VER. 10 Arcane Magic. Shield!,Rare,368
+Ninja Suit,5,250,15 Sneak and more! See Page Num,Extremely Rare,369
+Pimp Outfit,10,250,A whole bunch! See Page Num,Rare,369
+Witch Doctor Outfit,1,424,A whole bunch! See Page Num,Exotic,369
+Shadowbolt Costume,1,500,5 Flight/Bluff/Intim. Kinky. NOTICEABLE,Exotic,369
+Twin Archmage Robes,10,500,A whole bunch! See Page Num,Extremely Rare,370
+Wonderbolt Costume,1,500,A whole bunch! See Page Num,Exotic,370
+Shadowbolt Flight Uniform,1,1000,A whole bunch! See Page Num,Exotic,370
+Wonderbolt Flight Uniform,1,1000,A whole bunch! See Page Num,Exotic,371
+Regal Attire,6,1500,A whole bunch! See Page Num,Extremely Rare,371
+Gambler's Suit,1,N/A,A whole bunch! See Page Num,Rare,371
+Trench Coat,5,N/A,"5 DR, 1 CHA/END",Uncommon,371
+Headband,1,5,"1 to any skill, can be used as a bandage",Common,372
+Headwrap Cap,1,5,5 Poison Resist against Air Threats,Common,372
+Giant Hat,2,10,"1 PER/CHA, -5 Sneak",Uncommon,372
+Hat,1,10,1 PER,Common,373
+Travel Hood,1,10,1 PER,Common,373
+Baseball Cap,1,15,A Few options! See Page Num,Common,373
+Beanie,1,20,5 Cold Resist,Uncommon,373
+Enclave Officer's Cap,1,20,5 MEW,Extremely Rare,374
+Prewar Bathing Cap,0.5,20,5% Swim Speed,Common,374
+Roving Trader Cap,1,20,5 Barter,Common,374
+Faction Mask,1,25,Increases disposition by 1 for faction,Uncommon,374
+Feather Headband,1,25,A Few options! See Page Num,Rare,375
+Sack Hood with Hoses,2,25,A whole bunch! See Page Num,Common,375
+Ski Mask,2,25,A Few Skills! See Page Num,Common,375
+Skull Mask,1,25,2 Bluff/Intim. Raider Faction,Common,375
+Academic Cap,1,50,"1 Int, -1 CHA, 2 Academic/Lore",Rare,376
+Beret,1,50,1 Crit Chance to combat,Uncommon,376
+Captain's Hat,1,50,1 CHA,Uncommon,376
+Equestrian Army Drill Sergeant Hat,1,50,"In combat, -1 Crit Fail Chance",Rare,376
+Park Ranger Hat,1,50,"1 PER, 5 A/S/T",Rare,377
+Surgical Mask,1,50,5 Medicine,Common,377
+Wizard Cap,1,50,5 Arcane Magic,Rare,377
+Chef Hat,1,75,10 A/S/T While Cooking,Rare,377
+Experienced Airships Captain Hat,2,75,"1 LCK, 1 END",Rare,378
+Giant Novelty Hat,5,75,Some Funky Things! See Page Num,Uncommon,378
+Mercenary Tracker Hat,1,75,1 PER,Uncommon,378
+Old Aviator Hat,2,75,1 PER/CHA,Rare,378
+Salty Sea Captain's Hat,2,75,1 PER/END. See Page Num,Rare,379
+Ushanka Hat ,2,75,"5 Cold Resist, 5 Stun DT",Rare,379
+Tribal Chief Head,5,100,Holy Moly That's Stats! See Page Num,Extremely Rare,379

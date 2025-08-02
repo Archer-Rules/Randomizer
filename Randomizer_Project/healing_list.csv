@@ -1,0 +1,23 @@
+Item Name,Value,Weight,Duration,Addiction,Effect,Rarity,Page #
+Bandages,5,N/A,N/A,N/A,M/20 d10's HP,Common,461
+Buck,80,N/A,4 Mins,10,"3 END, 2 STR, 60HP",Common,461
+Dash,20,N/A,4 Mins,20%,15 AP,Common,461
+Doctor's Bag,100,N/A,30 Mins,35%,"Cure Cripple, Heals",Rare,461
+Fixer,20,N/A,END Hour,N/A,Temp Fix Addiction,Rare,461
+Focus,80,N/A,1 Min,10%,15 to hit,Rare,462
+Healing Potion,35,N/A,Instant,N/A,20+M/10 d10's,Common,462
+Hydra,20,N/A,4 Mins,10%,Cure all Crippled,Uncommon,462
+Magical Bandages,20,N/A,5 Turns,N/A,20+M/10 d10's,Uncommon,462
+Med-X,20,N/A,4 Mins,10%,20 DR,Common,462
+Mint-als,60,N/A,1 Hour,20%,"2 INT/PER, 1 CHA",Uncommon,463
+Party-Time Mint-als,80,N/A,30 Mins,35%,"2 INT/PER, 5 CHA",Rare,463
+Pure Rage,80,N/A,2 Mins,40%,3d10 DMG*,Extremely Rare,463
+Rage,20,N/A,4 Mins,20%,2d10 DMG*,Uncommon,463
+RAD Away,60,N/A,Instant,N/A,Remove 200 RADs,Common,463
+Rad-X,20,N/A,4 Mins,N/A,Rad Resist Up*,Uncommon,463
+Scholar,80,N/A,30 Mins,35%,"2 PER, 5 INT",Extremely Rare,464
+Stampede,80,N/A,4 Mins,20%,"20 DR, 2d10 DMG*",Common,464
+Super Resto Potion,100,N/A,Instant,N/A,60+M/5 Healing,Rare,464
+Super Stampede,160,N/A,2 Mins,50%,See Page Number,Uncommon,464
+Ultra Dash,80,N/A,4 Turns,30%,40 AP,Rare,464
+Full Restore,500,N/A,Instant,N/A,Full Heals Everything,Exotic,N/A

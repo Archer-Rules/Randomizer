@@ -1,0 +1,77 @@
+Item Name,Weight,Value,Special Rules,Rarity,Page #
+Box of Materials,5,12,Used to Build/Repair Stuff,Common,393
+Bundle of Components,10,20,Can be used as specific components,Common,393
+Bundle of Kitchen Supplies,5,8,Nice for Cooking,Common,393
+Bundle of Medical Supplies,6,25,Resupplies Doctor's Bag or Builds Stuff,Rare,393
+General Trash,2,1,Why carry this?  GM Randomizes Amount,Common,394
+2 Pony Tent,12,75,It's a Tent. Needed for sleep in bad conditions,Common,394
+4 Pony Tent,30,150,It's a Tent. Needed for sleep in bad conditions,Common,394
+Bedroll,5,15,Sleep Anywhere!,Common,394
+Binoculars,1,10,Let's you see further!,Uncommon,394
+Bobby Pins,N/A,0.5,Turns up everywhere! Needed for lockpicks,Common,395
+Climbing Gear,4,50,It... Climbs? I guess?,Rare,395
+Canteen,1,5,Holds 5 Bottles of water. Weight 5 when full,Common,395
+Compass,1,30,10 to A/S/T. Shows where Summer Points!,Common,395
+Fishing Pole,1.5,10,"You'll never guess, it fishes.",Uncommon,395
+Flashlight,1,30,Lights up dark places. ,Common,395
+Hot Plate,2,5,Used for Cooking or Alchemy.,Uncommon,396
+Lantern,2,10,Let there be light!,Uncommon,396
+Lighter,N/A,5,For your inner arsonist.,Common,396
+Nightvision Goggles,3,100,Gives night vision. Ignores darkness penalties,Rare,396
+Rope (Per 10 Yards),5,30,A very versatile tool. ,Common,396
+Screwdriver,0.5,1,Needed for lockpicking. Won't break,Common,396
+Shovel,3,25,"An effective tool, or weapon in the right hands.",Common,397
+Two-Way Radio,4,75,A simple radio with a one mile range.,Uncommon,397
+Carton of Cigarettes,2,40,4 Packs of Cigs. Now with no real benefit.,Uncommon,397
+Empty Bottle,0.5,1,Works well as a canteen if you stick a cap on it.,Common,397
+Food Sanitizer,7,150,Reduces RAD from food by half (but not drinks),Extremely Rare,397
+Pack of Cigarettes,0.5,10,Roughly 25% as cool as a carton.,Uncommon,398
+Scalpel,1,5,Used in a bundle of medical supplies,Common,398
+Scrap Electronics,1,1,The ultimate solution to your technical needs.,Common,398
+Scrap Metal,1,1,The ultimate solution to your broken things.,Common,398
+Alchemy Kit,15,20,5 to A/S/T. Everything you need to brew!,Common,398
+Brewer's System,500,1200,A REALLY GOOD alchemy kit. See page num,Rare,399
+Bullet Casing Repair Kit,3,25,10 to Firearms for recovering bullet casings!,Rare,399
+Disguise Kit,5,50,5 Sneak/Bluff while disguised! Applies to allies*,Rare,399
+Doctor's Kit,6,30,5 to Medicine. NOT a Doctor's Bag.. it's better.,Common,399
+Hackers Tools,1,50,5 to Hack/Matrix. Includes black hoodie.,Rare,399
+Hunter's Kit,3,50,10 to A/S/T for butchering/skinning.,Common,400
+Maintenance Kit,5,20,5 to Repair/Mech. Everything Archer needs.,Common,400
+Mini-Brewer's Kit,5,2000,Alcohol at an affordable rate? See page num,Extremely Rare,400
+My Little Chemistry Set,50,500,10 to A/S/T while creating chems.,Rare,400
+My Little Reloading Kit,20,500,Portable Reload Bench! Lowers bullet craft cost,Rare,400
+My Little Tool Rack,35,750,Portal Workbench! -10 to checks while using.,Rare,401
+Professional Locksmith Tools,1,250,"10 to Lockpick. Unlimited Uses, never breaks.",Rare,401
+Reinforcement Mod Kit,10,100,Make anything reinforced! See page num,Common,401
+Schematic Rank 1,N/A,300,Whatever recipe the GM wills it to be!,Rare,401
+Schematic Rank 2,N/A,400,"Whatever recipe the GM wills it to be, but better!",Rare,401
+Sewing Kit,1,5,"Good for mending clothes, and ponies!",Common,402
+Trapper's Kit,7,50,"5 to A/S/T, Sneak, Repair and Mech while Trapping.",Common,402
+Weapon/Armor Repair Kit,1,75,Used to repair tools! Not consumed on general use.,Common,402
+Weapon Maintenance Kit,0.5,10,Prevents wear and tear degradation for wepaons.,Common,402
+Winterized Clothing Mod Kit,3,20,"Requires Sewing Kit, Adds protection from cold.",Common,403
+Ammo Belt,1.5,50,"Holds 12 Reloads, -5 AP to reload",Uncommon,403
+Backpack,5,75,Increases Carry Cap by 20 Lbs,Uncommon,403
+Bandolier,2,20,Quick Access Sling + Ammo Belt. See page num,Common,403
+Battle Saddle,5,150,Reduces STR Req by 2 for weapons.,Common,403
+Chest Pouch,2,3,Increases Carry cap by 5 Lbs,Uncommon,404
+Grenade Belt,3,100,Holds 12 Grenades. Half AP to use.,Rare,404
+Javelin Bag,5,250,Quick Access Sling + even more! See page nu,Common,404
+Large Battle Saddle,10,200,Reduces STR Req by 2 for weapons.,Uncommon,404
+Larger Saddlebags,5,60,Increases carry cap by 20 Lbs,Rare,404
+Leg Pouches,2,5,Increases Carry Cap by 5 Lbs. Can wear 2!,Uncommon,405
+Military Backpack,7,100,Increases Carry Cap by 25 Lbs,Rare,405
+Pistol Holsters,3,30,Can make a pistol or smg cound as holstered,Common,405
+Quiver,3,125,May swap Arrows at 5 AP,Uncommon,405
+Rifle Holsters,3,30,Can make 1 rifle count as holstered.,Common,405
+Saddlebags,5,10,Holds your stuff! (You should already have this),Common,406
+Tac Vest,6,150,Quick Access Sling + Ammo Belt. See page num,Rare,406
+Throwing Knife Belt,3,75,Holds 7 Knives that can be thrown at -5 AP,Rare,406
+Arcanotech Port,0.5,350,Very important for all Tech! See Page Num,Rare,406
+Broadcaster,0.5,N/A,Allows Short Range Broadcasting! See Page Num,Extremely Rare,406
+Stealthbuck,0.5,100,Grants Invisibility with a port! See Page Num,Rare,407
+StealthBuck Mk II,0.5,500,"Like its predecessor, but better! See Page Num",Exotic,407
+Non-Pratctical Books,2,25,3 to Academic/Lore or Shamanism! Must Reads,Rare,407
+Practical Skill Books,2,40,3 to a whole variety of skills! See Page Num,Rare,408
+Semi-Practical Skill Books,2,35,3 to a whole variety of skills! See Page Num,Rare,408
+Skill Magazines,2,15,Any Skill! Grants a one hour +10 to that skill!,Rare,408

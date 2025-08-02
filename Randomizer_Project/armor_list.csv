@@ -1,0 +1,194 @@
+Armor Name,DT,Weight,Value,Faction,Effect,Rarity,Tier,Page #
+Armored Socks,2,2,40,N/A,N/A,Common,Light,295
+Scraped Together Armor,4,10,40,N/A,N/A,Common,Light,295
+Flakk Vest,8,8,50,N/A,N/A,Uncommon,Light,295
+Raider Armor,5,15,50,Raider,N/A,Common,Light,296
+Sports Armor,4,10,50,N/A,N/A,Common,Light,296
+Leather Armor,6,15,80,N/A,N/A,Common,Light,296
+Reinforced Raider Barding,8,20,80,Raider,1d10 Melee Damage,Uncommon,Light,296
+Tribal Armor,5,15,80,Tribal,"5 Melee, 5 Unarmed",Uncommon,Light,297
+Armored Utility Barding,6,15,100,N/A,5 Rep&Mech/Lockpick,Uncommon,Light,297
+Mercenary Tracker Barding,8,12,150,N/A,10 All Tracking,Uncommon,Light,297
+Radiation Suit,4,10,150,N/A,Rad Resist +20,Rare,Light,297
+Armored Gi,8,8,180,N/A,"5 Unarmed, +1 Crit",Uncommon,Light,298
+"Leather Armor, Reinforced",10,20,180,N/A,N/A,Common,Light,298
+Security Armor,8,15,200,N/A,2 Stun DT,Common,Light,298
+Tribal Hunter Barding,8,8,200,Tribal,1 PER,Uncommon,Light,298
+Unicorn Officer Barding,8,15,250,N/A,"1 VER, 5 Arcane Magic",Rare,Light,299
+Zebra Recruit Armor,8,10,250,Zebra*,5 M/U/T,Rare,Light,299
+Advanced Radiation Suit,8,12,300,N/A,Rad Resist +40,Rare,Light,299
+Talon Scout Armor,6,10,300,Talons,5 Firearms/AlcSurTraps,Uncommon,Light,299
+Equestrian Skyguard Armor,8,15,400,Enclave,"1 CHA, 5 MEW",Rare,Light,300
+Light Talon Armor,10,20,400,Talons,5 Firearms/MEW,Uncommon,Light,300
+Swordmare Barding,10,15,450,N/A,5 Melee/Speech,Rare,Light,300
+Zebra Prime Armor,10,12,500,Zebra*,"1 CHA, 5 M/U/T",Exotic,Light,300
+Enclave Scout Armor,8,10,800,Enclave,5 MEW,Rare,Light,301
+Space Suit,10,8,800,N/A,Rad Resist +40,Extremely Rare,Light,301
+Assassin Suit,10,15,1000,N/A,5 Sneak,Rare,Light,301
+Junior Talon Armor,8,10,1000,Talons,5 Unarmed/Firearms,Uncommon,Light,301
+SWAT Armor,12,15,1000,N/A,5 Melee/Firearms,Uncommon,Light,302
+MOM Assassin Suit,12,20,1200,N/A,10 Sneak,Extremely Rare,Light,302
+Hazmat Suit,10,18,1200,N/A,See Page Number,Rare,Light,302
+AMP Suit,15,25,1500,N/A,5 MEW Mag Capacity,Extremely Rare,Light,302
+Canterlot Security Armor,16,15,1800,N/A,4 Stun DT,Rare,Light,303
+Centurion Battledress,16,5,1800,Zebra*,10 Negot/Sedu/Unarmed,Exotic,Light,303
+Mk IV Environment Suit,10,25,2000,N/A,"1 STR*, Rad Resist +40",Exotic,Light,303
+Rarity-Line Battledress,16,10,2000,N/A,See Page Number,Extremely Rare,Light,303
+APS Suit,12,15,2500,N/A,10 Hack/Matr/Rep/Mech,Extremely Rare,Light,304
+Grand Battle Mage Armor,7,10,2500,N/A,See Page Number,Extremely Rare,Light,304
+Shade Suit,14,20,2600,N/A,"10 Sneak, +1 Crit",Exotic,Light,304
+Ghostmare Suit,18,20,3500,N/A,20 Sneak,Exotic,Light,304
+Zebrican Shadowsilk Barding,18,15,4000,Zebra*,"15 Sneak, +3 Crit",Exotic,Light,305
+Flakk Armor,8,20,100,N/A,N/A,Common,Medium,305
+Ragged Combat Armor,10,20,100,N/A,N/A,Common,Medium,305
+Armored Duster,8,15,150,N/A,"1 CHA, 5 Firearms",Common,Medium,306
+Trooper Armor,10,24,200,N/A,N/A,Common,Medium,306
+Lightweight Metal Armor,12,20,250,N/A,.-1 Agi,Common,Medium,306
+Wasteland Survival Armor,10,15,350,N/A,See Page Number,Uncommon,Medium,306
+Talon Combat Armor,14,22,450,Talons,5 Firearms/MEW,Uncommon,Medium,307
+Combat Armor,15,25,500,N/A,5 B.Saddle,Common,Medium,307
+Raider Scrap Armor,12,20,500,Raider,"10 Intimidation, 5 Melee",Common,Medium,307
+Zebrican Striker Barding,12,25,500,Zebra*,10 Unarmed,Rare,Medium,307
+MOP Combat Armor,15,25,600,N/A,See Page Number,Rare,Medium,308
+NCR Ranger Patrol Armor,15,25,600,NCR,5 Firearm/Explosive,Uncommon,Medium,308
+"Combat Armor, Reinforced",18,30,625,N/A,5 B.Saddle,Uncommon,Medium,308
+Dazzle Camo Armor,15,25,750,N/A,5 Melee/Unarmed,Rare,Medium,308
+Zebra Field Armor,14,25,750,Zebra*,"5 Melee, 10 Unarmed",Rare,Medium,309
+Recon Armor,17,20,1200,N/A,20 Sneak,Rare,Medium,309
+Military Police Armor,18,20,1300,N/A,"6 Stun DT, 5 Intimidation",Common,Medium,309
+Enclave Trooper Armor,12,15,1400,Enclave,"10 MEW, 5 B.Saddle",Rare,Medium,309
+Ordinance Delivery Harness,18,30,1500,N/A,10 Explosives,Rare,Medium,310
+Power Armor Sub-Suit,15,25,1500,Rangers,1 STR,Rare,Medium,310
+Zebra Centurion Armor,18,30,1600,Zebra*,"1 CHA, 5 M/U/T",Exotic,Medium,310
+Riot Gear,20,30,1800,N/A,5 Firearms/MEW,Rare,Medium,310
+NCR Ranger Combat Armor,20,30,2000,NCR,10 B.Saddle,Uncommon,Medium,311
+Mobile Griffon Power Armor,20,25,2400,Talons,See Page Number,Exotic,Medium,311
+MOM Riot Gear,20,30,2500,N/A,See Page Number,Extremely Rare,Medium,311
+Pathfinder Barding,15,10,2500,Enclave,5 MEW,Extremely Rare,Medium,311
+MEV Suit,20,15,3000,N/A,20 Hacking/Matrix,Extremely Rare,Medium,312
+Enclave Power Armor,28,10,3200,Enclave,See Page Number,Extremely Rare,Medium,312
+Tesla Power Armor,24,10,3500,Enclave,See Page Number,Exotic,Medium,312
+Remnants Tesla Power Armor,26,10,3800,Enclave,See Page Number,Exotic,Medium,312
+Metal Armor,12,30,150,N/A,.-1 AGI,Common,Heavy,313
+Raider Boss Armor,10,30,150,Raider,".-1 AGI, 5 Melee",Exotic,Heavy,313
+"Metal Armor, Reinforced",14,35,250,N/A,.-1 AGI,Uncommon,Heavy,313
+Taint Mutant Plate,14,35,250,N/A,.-1 AGI,Extremely Rare,Heavy,314
+Scrap Armor,16,45,350,N/A,.-1 AGI,Common,Heavy,314
+Knght Plate,16,35,500,N/A,".-1 AGI, 5 Melee",Extremely Rare,Heavy,314
+Heavy Metal Barding,22,35,700,N/A,.-1 AGI,Rare,Heavy,314
+Samurai Armor,16,30,700,Talons,5 Melee,Exotic,Heavy,315
+Bomb Disposal Suit,15,35,800,N/A,".-1 AGI, 5 Explosives",Rare,Heavy,315
+Clipboard Armor,14,30,800,N/A,.-1 AGI,Rare,Heavy,315
+Combat Armor MKII,20,35,800,N/A,"5 DR, 10 B.Saddle",Extremely Rare,Heavy,315
+Canterlot Guard Armor,18,35,1000,N/A,See Page Number,Rare,Heavy,316
+Crystal Empire Armor,18,35,1000,N/A,See Page Number,Extremely Rare,Heavy,316
+Midnight Guard Armor,18,35,1000,N/A,See Page Number,Rare,Heavy,316
+Zebra Tribunal Armor,19,35,1000,Zebra*,See Page Number,Exotic,Heavy,316
+AMF Armor,20,25,1100,N/A,".-1 AGI, Magic Res +30",Exotic,Heavy,317
+Inferno Armor,20,35,1200,N/A,".-1 AGI, Fire Immune",Exotic,Heavy,317
+Pillaged Power Armor,16,25,1200,Raider,See Page Number,Uncommon,Heavy,317
+Salvaged Power Armor,22,40,1200,NCR?,See Page Number,Rare,Heavy,317
+Scrap Power Armor,20,35,1200,Slavers,"5 DR, 10 ALL Res, -2 AGI",Rare,Heavy,318
+T-36D Power Armor,20,40,1600,Rangers,"5 DR, -2 AGI, 1 STR",Rare,Heavy,318
+Forged Raider Battle Armor,20,25,2000,Raider,15 Bluff/Intim,Exotic,Heavy,318
+Macintosh Assault Carapace,27,55,2000,N/A,"10 DR, -2 AGI, 5 B.Saddle",Extremely Rare,Heavy,318
+T-45B Power Armor (No Helm),24,35,2000,Rangers,See Page Number,Rare,Heavy,319
+Zebra Legate Armor,27,35,2000,Zebra*,"1 CHA, 5 M/U/T",Exotic,Heavy,319
+T-45B Power Armor (Helmet),24,40,2200,Rangers,See Page Number,Rare,Heavy,319
+MP-47 Medical Power Armor,24,35,2500,Rangers,See Page Number,Rare,Heavy,319
+MP-49 Engineer Power Armor,24,35,2500,Rangers,See Page Number,Rare,Heavy,320
+Expiremental Griffon Power Armor,25,30,2800,Talons,See Page Number,Exotic,Heavy,320
+Remnants Power Armor,28,15,2800,Enclave,See Page Number,Extremely Rare,Heavy,320
+T-51B Power Armor (No Helm),32,25,3200,Rangers,See Page Number,Rare,Heavy,320
+T-51B Power Armor (Helm),32,30,3500,Rangers,See Page Number,Rare,Heavy,321
+T-55A Dreadnought Power Armor,35,30,4000,N/A,See Page Number,Extremely Rare,Heavy,321
+Hellfire Power Armor,35,24,5600,Enclave,See Page Number,Exotic,Heavy,321
+SA-1A Commander Power Armor,30,15,5600,N/A,See Page Number,Exotic,Heavy,321
+T-56C Power Armor,30,30,5600,Rangers,See Page Number,Exotic,Heavy,322
+Raider Helmet,2,3,10,Raider,"2 Alc/S/T, -1 CHA",Common,Light Helm,323
+Sports Helmet,2,3,10,N/A,N/A,Common,Light Helm,323
+Lantern Helmet,1,2,20,N/A,1 PER,Uncommon,Light Helm,323
+Scraped Together Helmet,2,5,25,N/A,N/A,Common,Light Helm,324
+Steel Pot Helmet,3,6,25,N/A,N/A,Common,Light Helm,324
+Thief Mask,0,1,25,N/A,5 Sneak/SleightOHoof,Common,Light Helm,324
+Trashcan Helmet,2,10,25,N/A,.-3 PER,Common,Light Helm,324
+Tribal Mask,1,3,25,Tribal,"2 Alc/S/T/Shaman, -1 CHA",Uncommon,Light Helm,325
+Leather Helmet,4,4,30,N/A,N/A,Common,Light Helm,325
+Tribal Helmet,4,4,30,N/A,N/A,Common,Light Helm,325
+Motorcycle Helmet,2,5,35,N/A,1 PER,Common,Light Helm,325
+Gas Mask,2,4,50,Enclave,See Page Number,Uncommon,Light Helm,326
+Plague Mask,1,4,50,Griffon,"10 Poison RES, -1 CHA",Uncommon,Light Helm,326
+Radiation Suit Helmet,1,3,50,N/A,Rad Resist +5,Rare,Light Helm,326
+Security Helmet,6,4,50,N/A,2 Stun DT,Common,Light Helm,326
+Enclave Scout Helmet,4,2,90,Enclave,1 PER,Rare,Light Helm,327
+Leather Muzzle,1,2,125,Raider,See Page Number,Common,Light Helm,327
+Advanced Radiation Suit Helmet,2,5,150,N/A,Rad Resist +8,Rare,Light Helm,327
+Tribal Headdress,1,1,150,Tribal,10 A/S/T,Uncommon,Light Helm,327
+Enclave Scout Hood,4,5,400,Enclave,N/A,Rare,Light Helm,328
+Space Suit Helmet,5,4,400,N/A,Rad Resist +10,Uncommon,Light Helm,328
+Legendary Thief Mask,1,1,500,N/A,See Page Number,Extremely Rare,Light Helm,328
+Reconnaissance Hood,2,1,500,N/A,2 PER,Rare,Light Helm,328
+SWAT Helmet,6,7,500,N/A,N/A,Uncommon,Light Helm,329
+Hazmat Helmet,5,9,600,N/A,Poison/Rad Resist +10,Rare,Light Helm,329
+MOM Assassin Helmet,6,10,600,N/A,5 Sneak,Extremely Rare,Light Helm,329
+AMP Helmet,6,10,700,N/A,N/A,Extremely Rare,Light Helm,329
+Canterlot Security Helmet,8,7,900,N/A,2 Stun DT,Rare,Light Helm,330
+MK4 Environment Suit Helmet,1,12,1000,Special,10 All Resist,Exotic,Light Helm,330
+Rebreather,2,3,1000,N/A,N/A,Rare,Light Helm,330
+APS Helmet,6,7,1200,N/A,5 Hack/Mat/Rep/Mech,Extremely Rare,Light Helm,330
+Ghostmare Helmet,9,10,1500,N/A,5 Sneak/SleightOHoof,Exotic,Light Helm,331
+Shadow Silk Helmet,9,7,2000,Zebra,See Page Number,Exotic,Light Helm,331
+Flakk Helmet,4,10,50,N/A,2 DT vs. Explosives,Common,Medium Helm,331
+Ragged Combat Helmet,4,10,50,N/A,1 PER,Common,Medium Helm,332
+Welder's Mask,6,5,100,N/A,"5 Mech, -1 PER/CHA",Common,Medium Helm,332
+Lightweight Metal Armor,6,10,125,N/A,N/A,Common,Medium Helm,332
+Trooper Helmet,6,6,125,N/A,N/A,Common,Medium Helm,332
+Combat Helmet,8,6,150,N/A,See Page Number,Common,Medium Helm,333
+Zebra Field Helmet,8,6,150,Zebra*,N/A,Rare,Medium Helm,333
+Recon Helmet,8,6,200,N/A,5 Sneak/SleightOHoof,Rare,Medium Helm,333
+"Combat Helmet, Reinforced",9,15,300,N/A,N/A,Uncommon,Medium Helm,333
+Talon Combat Helmet,6,5,300,Talons,N/A,Uncommon,Medium Helm,334
+Dazzle Camo Helmet,7,10,350,N/A,N/A,Rare,Medium Helm,334
+Military Police Helmet,9,10,650,N/A,2 Stun DT,Common,Medium Helm,334
+Enclave Trooper Helmet,6,7,700,N/A,1 PER,Rare,Medium Helm,334
+Zebra Centurian Helmet,9,15,800,Zebra*,5 Unarmed,Exotic,Medium Helm,335
+Mobile Griffon Power Armor Helmet,10,12,1200,Talons,5 DR,Exotic,Medium Helm,335
+NCR Ranger Combat Helmet,10,15,1300,NCR,5 B.Saddle,Uncommon,Medium Helm,335
+Pathfinder Helmet,7,5,1300,N/A,"5 A/S/T, 1 PER",Extremely Rare,Medium Helm,335
+MEV Suit Helmet,10,7,1500,N/A,10 Hack/Mat,Extremely Rare,Medium Helm,336
+Enclave Power Armor Helmet,14,5,1700,Enclave,"5 DR, 5 ALL Res",Extremely Rare,Medium Helm,336
+Tesla Power Armor Helmet,12,5,1800,Enclave,"5 DR, 5 ALL Res",Exotic,Medium Helm,336
+Remants Tesla Power Armor Helmet,13,5,1900,Enclave,"5 DR, 10 ALL Res",Exotic,Medium Helm,336
+Metal Helmet,10,8,75,N/A,.-1 PER,Common,Heavy Helm,337
+Raider Boss Helmet,8,8,75,Raider,"5 Melee, -1 PER",Exotic,Heavy Helm,337
+Taint Mutant Helmet,7,17,125,N/A,N/A,Extremely Rare,Heavy Helm,337
+Scrap Helmet,12,8,150,N/A,.-1 PER,Common,Heavy Helm,338
+Combat Helmet MK II,12,8,250,N/A,Light Helmet,Extremely Rare,Heavy Helm,338
+Canterlot Guard Helmet,16,8,350,N/A,N/A,Rare,Heavy Helm,338
+Crystal Empire Helmet,16,8,350,N/A,N/A,Rare,Heavy Helm,338
+Midnight Guard Helmet,16,8,350,N/A,N/A,Rare,Heavy Helm,339
+Knight Helmet,8,17,250,N/A,5 DT vs. Melee/Unarm,Extremely Rare,Heavy Helm,339
+Samurai Armor,8,15,350,N/A,N/A,Exotic,Heavy Helm,339
+Bomb Disposal Helmet,7,17,400,N/A,5 DT vs. Explosive Damage,Rare,Heavy Helm,339
+Zebra Legate Helmet,13,17,400,Zebra*,N/A,Exotic,Heavy Helm,340
+Zebra Tribunal Helmet,9,17,500,Zebra*,5 Bluff/Intim,Exotic,Heavy Helm,340
+Pillaged Power Armor Helmet,8,7,510,Raiders,"5 Bluff/Intim, -2 PER",Uncommon,Heavy Helm,340
+AMF Helmet,10,12,550,Talons,5 DT vs. MEW,Exotic,Heavy Helm,340
+Inferno Helmet,10,17,600,N/A,See Page Number,Exotic,Heavy Helm,341
+Salvaged Power Armor Helmet,22,12,600,NCR?,"5 Bluff/Intim, -2 PER",Rare,Heavy Helm,341
+T-36D Power Armor Helmet,18,12,600,N/A,See Page Number,Rare,Heavy Helm,341
+Forged Raider Battle Armor,10,12,1000,Raiders,"5 Bluff/Intim, -2 PER",Exotic,Heavy Helm,341
+Macintosh Assault Helmet,13,27,1000,N/A,5 DR,Extremely Rare,Heavy Helm,342
+T-45B Power Armor Helmet,24,14,1000,Rangers,"5 DR, 5 ALL Res",Rare,Heavy Helm,342
+Expiremental Griffon Power Armor Helmet,12,6,1100,Talons,See Page Number,Exotic,Heavy Helm,342
+MP-47 Medical Power Armor Helmet,12,17,1250,Rangers,"3 DR, 7 ALL Res, 5 Med",Rare,Heavy Helm,342
+MP-49 Engineer Power Armor Helmet,12,17,1250,Rangers,See Page Number,Rare,Heavy Helm,343
+T-51B Power Armor Helmet,14,7,1400,Rangers,"5 DR, 10 ALL Res",Rare,Heavy Helm,343
+Remnants Power Armor Helmet,14,7,1400,Enclave,"5 DR, 7 ALL Res",Extremely Rare,Heavy Helm,343
+T-55A Dreadnought Power Armor Helmet,17,15,2000,Rangers,"12 DR, 12 ALL Res",Extremely Rare,Heavy Helm,343
+T-56C Power Armor Helmet,30,10,2000,Rangers,"5 DR, 10 ALL Res",Exotic,Heavy Helm,344
+Hellfire Power Armor Helmet,17,12,2800,Enclave,See Page Number,Exotic,Heavy Helm,344
+SA-1A Commander Power Armor Helmet,15,7,2800,Royal Guard,"3 DR, 3 ALL Res",Exotic,Heavy Helm,344
+Pre-War Power Armor Operator Harness,1,10,1000,NCR?,See Page Number,Rare,Harness,345
+Steel Ranger Paladin Power Armor Harness,5,15,1500,Rangers,See Page Number,Rare,Harness,345
+Enclave Power Armor Harness,2,10,2000,Enclave,See Page Number,Extremely Rare,Harness,345
